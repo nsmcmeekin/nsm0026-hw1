@@ -12,6 +12,6 @@ int main()
 	myObject.val1(2);
 	myObject.val2(3);
 
-	cout << myObject.val1() << "\n";
-	cout << myObject.val2() << "\n";
+	cout << "First Number Is: " << myObject.val1() << "\n";
+	cout << "Second Number Is: " << myObject.val2() << "\n";
 }
